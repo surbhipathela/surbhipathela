@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @surbhipathela
-- 🌱 I’m currently learning DevOps
 - 📫 How to reach me - surbhipathela003@gmail.com
-- 😄 Pronouns: ... she/her
+  
 
 
 <!---
